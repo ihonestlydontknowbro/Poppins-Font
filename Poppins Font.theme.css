@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Poppins&display=swap');
+
+:root {
+    --font-primary: 'Poppins'; /* Font */
+    --primary-text-color: lightgray; /* Font color */
+}
